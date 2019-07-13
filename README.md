@@ -3,6 +3,7 @@
 </a>
 
 # Introduction
+THIS IS A FORK https://github.com/codinguser
 
 GnuCash Android is a companion expense-tracker application for GnuCash (desktop) designed for Android.
 It allows you to record transactions on-the-go and later import the data into GnuCash for the desktop.
